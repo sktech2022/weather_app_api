@@ -1,0 +1,1 @@
+Set EMAIL HOST USERNAME AND EMAIL HOST PASSWORD credentials in "wproj" => "settings.py" => line 153 and 154 before runing the program
